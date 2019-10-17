@@ -37,13 +37,12 @@ figcaption {
 
 #details {
   display:block;
+  margin:auto;
 }
 
 #details div {
   float:left;
   background:#ede8da;
   text-align: center;
-  margin: auto;
-  width:22%;
-  
+  width:25%;
 }
